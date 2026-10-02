@@ -60,3 +60,11 @@ Durante la exposición, la aplicación contó con un stand interactivo donde los
 Este repositorio conserva deliberadamente la implementación original del 2025 como un registro histórico de mi punto de partida técnico.
 
 Próximamente se estará encarando un **Reboot / Modernización** en un repositorio independiente para llevar el proyecto a estándares de producción actuales (Jetpack Compose, Backend propio con Python/PostgreSQL y arquitectura limpia).
+
+## 📥 Descarga la App
+
+Podés descargar e instalar el archivo APK directamente en tu dispositivo Android para probar el MVP original:
+
+[![Descargar APK](https://img.shields.io/badge/Descargar_APK-v1.0.0--MVP-brightgreen?style=for-the-badge&logo=android)](https://github.com/BenjaminIsmaelMaldonado/Feedo-Android-MVP-2025/releases/tag/v1.0.0-mvp)
+
+*(Nota: Al ser una versión de prueba fuera de Google Play Store, es posible que Android requiera habilitar la opción "Instalar aplicaciones de fuentes desconocidas").*
